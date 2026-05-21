@@ -37,5 +37,3 @@ externalPort = 3000
 [userenv]
 
 [userenv.shared]
-MONGODB_URI = "mongodb+srv://mauryayuvraj417_db_user:rJF2e1kKCxrYYKJK@cluster0.lu2x8nd.mongodb.net/"
-JWT_SECRET = "566f5dd4506632bdfa069c6d7aedc48f8831e042f6118cfec312d3d1e49d6a58"
