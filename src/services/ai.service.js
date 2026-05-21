@@ -1,6 +1,6 @@
 const {GoogleGenAI} = require('@google/genai')
 
-cosnt ai  = new GoogleGenAI({});
+const ai  = new GoogleGenAI({});
 
 async function generateResponse(content)
 {

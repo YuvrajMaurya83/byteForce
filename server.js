@@ -8,6 +8,6 @@ const httpServer = require("http").createServer(app);
 connectDB();
 initSocketServer(httpServer);
 
-httpServer.listen(4600, () => {
+httpServer.listen(3000, () => {
     console.log("Server is running");
 });
